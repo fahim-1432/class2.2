@@ -1,0 +1,23 @@
+table{
+color: cyan;
+background-color:white ;
+}
+th{
+color:cyan ;
+font-size: 200px;
+text-transform: capitalize;
+background-color:rgb(212, 207, 207) ;
+}
+td{
+color:aqua ;
+font-size: 100px;
+text-transform: capitalize;
+text-align: center;
+background-color:white ;
+}
+
+
+
+
+
+
